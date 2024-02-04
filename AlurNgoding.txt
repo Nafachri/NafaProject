@@ -1,0 +1,7 @@
+1. npm init (install semua package yang dibutuhkan)
+2. create app.js file utama untuk main file masuk ke server
+3. create helpers untuk buat connection ke database(SF/MongoDB/dll)
+4. create middlewares untuk handle error sebagai alat tracing error dan bisa juga sebagai authentication
+5. create routes index, untuk check connectivity is server's ready or not
+6. create entities (untuk memanipulasi data di database)
+7. create controllers (untuk menerima data yang di dapat/dikirim dari frontend ke BE)
